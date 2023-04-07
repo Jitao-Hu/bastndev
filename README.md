@@ -6,7 +6,7 @@
 
 <!--Skill And More Information--> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jitao-hu&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Jerry Hu Dev github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitao-hu&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
@@ -20,7 +20,7 @@
   
  <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=jitao-hu&theme=tokyonight_duo&hide_border=true"
 </p>
 
    <!--Front End-->
@@ -69,12 +69,12 @@ graph TD;
 <!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jitao-hu}/count.svg" /></p> 
 <br>
 </div>
   
 <!--- Country ---> 
-<a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@bastndev" border="0"></a>
+<a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@jitao-hu" border="0"></a>
   
 <!-- <a href="https://solo.to/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
   
