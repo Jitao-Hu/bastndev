@@ -40,7 +40,7 @@ graph TD;
    
  <!--Coordenadas de Rio Preto - My Home-->
   
- ```geojson
+<!--  ```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -65,7 +65,7 @@ graph TD;
     }
   ]
 }
-```
+``` -->
 <!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
